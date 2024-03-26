@@ -1,22 +1,5 @@
-# 简介
-本项目主要收集重要的漏洞信息，包括但不限于漏洞样本、漏洞分析文章、POC或EXP相关工具等。所有漏洞按照一下今个主要类别进行分析：
+# About project
 
-* 操作系统漏洞
+this repo amied at cve list from main components in soft development.
 
-  不限于Windows、Linux、Android等通用主流操作系统层面的漏洞。
-
-* web方向漏洞
-
-  与web相关的漏洞， 包括中间件、组件，服务器等相关漏洞
-
-* 通用软件漏洞
-
-  主要涉及浏览器、office、PDF等其他常见客户端软件的漏洞
-
-* 智能硬件漏洞
-
-  只能硬件漏洞主要涉及路由器相关的漏洞信息
-
-* 其他漏洞
-
-  其他不好划分类别的漏洞均归属于此类中
+otherwise, the project also collect information about vulnerablity analysis technology and relevate tools.
