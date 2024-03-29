@@ -19,16 +19,6 @@
 
 https://linuxkernelcves.com/cves
 
-
-Linux Kernel CVEs
-Search by CVE ID
-Stream Reports
-Linux Distro Security Pages
-Want to support this project?
-Infrastructure costs money. Donate to keep this page updating.
-
-Donate with PayPal button
-All Indexed CVEs
 The following is a comprehensive list of all CVEs in our index that affect the upstream kernel.
 
 CVE-2003-1604
